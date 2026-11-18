@@ -1,0 +1,4 @@
+.DS_Store
+~$*.docx
+entrega/*.docx
+.claude/settings.local.json
