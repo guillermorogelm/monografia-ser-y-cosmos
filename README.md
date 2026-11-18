@@ -1,0 +1,1 @@
+# monografia-ser-y-cosmos
